@@ -8,4 +8,6 @@ A list of good websites to improve the knowledge about Swift
 
 - https://blog.bobthedeveloper.io/
 
+- https://nshipster.com/
+
 
